@@ -378,6 +378,10 @@ html {
     font-size: 19px;
 }
 
+.contact-infor a {
+    color: #2196F3;
+}
+
 .contact-infor i {
     width: 30px;
     display: inline-block;
