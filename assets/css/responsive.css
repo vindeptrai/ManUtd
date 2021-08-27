@@ -68,7 +68,11 @@
     }
 
     #slider .text-content {
+        position: absolute;
         bottom: 23px;
+        width: 100%;
+        text-align: center;
+        color: #fff
     }
 
     #content .team-item {
